@@ -1,11 +1,11 @@
 import discord
 from discord.ext import commands
 
-bot = commands.Bot(command_prefix='!') # Prefix
+bot = commands.Bot(command_prefix='!', intents=discord.Intents.default()) # Prefix
 
 @bot.event
 async def on_ready():
-    print(f'Logged in as {bot.user}')
+    print(f'Logged in as {bot.user}') # Console output
 
 @bot.command()
 async def hello(ctx): # Command !hello
