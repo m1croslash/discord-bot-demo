@@ -1,2 +1,3 @@
 discord
 python3
+python-dotenv
