@@ -1,4 +1,4 @@
-# Discord Bot Guide:
+# Discord Bot Setup Guide:
 Discord Bot Token from [Discord Developer Portal](https://discord.com/developers/docs/intro)
 
 ## Linux/macOS
