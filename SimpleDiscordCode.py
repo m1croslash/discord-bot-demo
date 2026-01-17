@@ -9,7 +9,7 @@ async def on_ready():
 
 @bot.command()
 async def hello(ctx): # Command !hello
-    await ctx.send("Hello world")
+    await ctx.send("Hello world") # Message
   
 # Direct token (NOT RECOMMENDED for sharing)
 bot.run('') # Your Token here
