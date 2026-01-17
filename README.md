@@ -1,7 +1,7 @@
 # Simple Discord Bot
 
 ## Guide:
-Discord Bot Token from Discord Developer Portal
+Discord Bot Token from ```Discord Developer Portal```
 
 ## Linux/macOS
 ```python3 -m venv venv```
