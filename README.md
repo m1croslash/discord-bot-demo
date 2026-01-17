@@ -1,6 +1,6 @@
 # Simple Discord Bot
 
-## Guide:
+# Guide:
 Discord Bot Token from ```Discord Developer Portal```
 
 ## Linux/macOS
