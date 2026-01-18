@@ -1,7 +1,7 @@
 # Discord Bot Setup Guide:
 Discord Bot Token from [Discord Developer Portal](https://discord.com/developers/docs/intro)
 
-## Linux/macOS
+## Linux/MacOS
 ```bash
 python3 -m venv venv
 ```
