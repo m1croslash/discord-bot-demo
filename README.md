@@ -1,6 +1,14 @@
 # Discord Bot Setup Guide:
 Discord Bot Token from [Discord Developer Portal](https://discord.com/developers/docs/intro)
 
+# Git
+```bash
+git clone https://github.com/username/repository-name.git
+```
+```bash
+cd repository-name
+```
+
 ## Linux/MacOS
 ```bash
 python3 -m venv venv
