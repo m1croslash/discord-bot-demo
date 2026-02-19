@@ -17,7 +17,7 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-## Windows
+## Windows 10/11
 ```bash
 python -m venv venv
 ```
