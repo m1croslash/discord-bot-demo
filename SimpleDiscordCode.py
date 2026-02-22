@@ -22,4 +22,5 @@ bot.run('') # Your Token here
 # from dotenv import load_dotenv
 # import os
 # load_dotenv()
-# bot.run(os.getenv('DISCORD_TOKEN'))
+# TOKEN = os.getenv('DISCORD_TOKEN')
+# bot.run(TOKEN)
