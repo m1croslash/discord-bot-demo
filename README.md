@@ -30,7 +30,7 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 ```bash
-pip install discord
+pip install discord.py
 ```
 ```bash
 pip install python-dotenv
