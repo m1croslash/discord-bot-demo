@@ -35,15 +35,12 @@ pip install discord.py
 ```bash
 pip install python-dotenv
 ```
-
-## Create a .env file
-```bash
-DISCORD_TOKEN=your_token_here
-```
+___
 ## Edit bot.py and replace
 ```bash
 bot.run('your_token_here')
 ```
+___
 ## Run the Bot
 ```bash
 python bot.py
